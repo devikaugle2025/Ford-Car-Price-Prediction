@@ -19,8 +19,3 @@ It includes data preprocessing, exploratory data analysis (EDA), feature enginee
 - 🧮 Model Evaluation using MAE, MSE, and R² Score
 - 🔮 Price Prediction on test data
 
-▶️ How to Run the Project
-
-```bash
-pip install -r requirements.txt
-python ford_car_model.py
